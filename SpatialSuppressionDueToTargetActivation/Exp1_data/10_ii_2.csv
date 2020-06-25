@@ -1,0 +1,121 @@
+subj	name	gender	age	runNum	shape	dist	td_dif	resp	resp_key	d_loc	t_loc	gotKey	startTime	respTime	resp	fix_loc	sac_detected	prac
+10	ii	f	20	2	circle	none	same	vert	up	N_dis	(664, 525)	True	7707	9337	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	vert	up	(715, 400)	(1016, 525)	True	10432	11033	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	vert	up	N_dis	(964, 400)	True	12160	12753	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	hori	left	(664, 525)	(964, 649)	True	14004	14769	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	vert	up	(715, 400)	(715, 649)	True	15836	16696	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	vert	up	(840, 701)	(715, 649)	True	17753	18696	up	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	hori	left	(664, 525)	(715, 649)	True	19867	20448	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	vert	up	N_dis	(1016, 525)	True	21484	22032	up	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	vert	up	(840, 349)	(715, 649)	True	23143	23761	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	vert	up	(715, 649)	(840, 701)	True	25008	25801	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	vert	up	(715, 649)	(964, 649)	True	26856	27481	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	hori	left	(964, 400)	(1016, 525)	True	28580	29193	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	vert	up	(715, 400)	(964, 649)	True	30248	30977	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	hori	left	N_dis	(840, 349)	True	32097	32704	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	hori	left	(840, 349)	(715, 649)	True	35425	36088	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	hori	left	(964, 649)	(1016, 525)	True	37269	38176	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	hori	left	(840, 701)	(840, 349)	True	39330	39968	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	vert	up	N_dis	(964, 649)	True	41108	41889	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	hori	left	(715, 649)	(1016, 525)	True	43056	43681	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	hori	left	N_dis	(664, 525)	True	44706	45329	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	hori	left	(840, 349)	(715, 649)	True	46531	47361	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	hori	left	N_dis	(964, 649)	True	48505	49416	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	hori	left	(840, 349)	(840, 701)	True	50570	51160	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	hori	left	(664, 525)	(715, 400)	True	52198	52848	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	vert	up	(664, 525)	(840, 701)	True	53929	54360	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	vert	up	(1016, 525)	(715, 400)	True	57063	57784	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	vert	up	N_dis	(715, 400)	True	59000	59513	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	vert	up	N_dis	(715, 649)	True	60645	61513	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	vert	up	N_dis	(964, 649)	True	62598	63512	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	hori	left	(1016, 525)	(964, 649)	True	64529	65168	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	vert	up	N_dis	(840, 701)	True	66336	66904	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	vert	up	(840, 701)	(715, 649)	True	68074	68672	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	hori	left	(1016, 525)	(715, 649)	True	69691	70360	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	vert	up	(964, 400)	(840, 701)	True	71382	72232	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	hori	left	(964, 400)	(715, 400)	True	73310	73968	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	hori	left	N_dis	(964, 400)	True	75125	75921	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	vert	up	(840, 701)	(964, 649)	True	77089	77761	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	hori	left	N_dis	(840, 349)	True	78938	79528	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	hori	left	(715, 400)	(715, 649)	True	80655	81272	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	vert	up	(964, 649)	(664, 525)	True	82423	83136	up	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	hori	left	(715, 649)	(964, 649)	True	84282	85120	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	hori	left	(664, 525)	(964, 649)	True	86270	86936	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	hori	left	(715, 400)	(964, 649)	True	88075	88552	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	hori	left	N_dis	(715, 649)	True	89677	90368	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	vert	up	(1016, 525)	(964, 649)	True	91456	92368	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	vert	up	(715, 649)	(840, 349)	True	93426	93961	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	hori	left	(840, 701)	(964, 649)	True	95031	95792	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	hori	left	N_dis	(715, 649)	True	96830	97416	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	vert	up	(964, 649)	(715, 649)	True	98666	99464	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	vert	up	(715, 649)	(715, 400)	True	100603	101208	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	hori	left	(964, 400)	(1016, 525)	True	102243	102920	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	hori	left	(1016, 525)	(715, 400)	True	104002	104792	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	vert	up	N_dis	(840, 701)	True	105943	106736	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	hori	left	(715, 400)	(664, 525)	True	107786	108904	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	vert	up	N_dis	(664, 525)	True	110082	110752	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	hori	left	N_dis	(840, 701)	True	111869	112552	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	vert	up	N_dis	(964, 649)	True	113570	114296	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	vert	up	(1016, 525)	(715, 649)	True	115388	116136	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	vert	up	(715, 400)	(840, 701)	True	118764	119408	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	vert	up	(840, 349)	(715, 649)	True	120580	121128	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	vert	up	(964, 649)	(715, 400)	True	122200	122808	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	hori	left	(664, 525)	(840, 701)	True	123842	124624	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	vert	up	(840, 349)	(715, 400)	True	125835	126679	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	hori	left	(664, 525)	(964, 649)	True	127794	128408	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	vert	up	(964, 649)	(715, 400)	True	129543	130288	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	vert	up	(664, 525)	(715, 400)	True	131319	131944	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	vert	up	N_dis	(1016, 525)	True	133069	133616	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	hori	left	(964, 649)	(840, 701)	True	134688	135392	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	vert	up	N_dis	(715, 400)	True	136567	137184	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	vert	up	N_dis	(840, 701)	True	138410	139040	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	hori	left	(840, 701)	(715, 400)	True	140270	140919	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	vert	up	(964, 400)	(715, 649)	True	142167	142951	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	vert	up	(840, 701)	(840, 349)	True	144091	144711	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	hori	left	(715, 400)	(1016, 525)	True	147427	148032	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	vert	up	N_dis	(664, 525)	True	149172	149872	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	vert	up	(964, 400)	(715, 649)	True	151109	151792	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	vert	up	N_dis	(664, 525)	True	152966	153488	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	vert	up	N_dis	(840, 701)	True	154693	155328	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	vert	up	(1016, 525)	(964, 649)	True	156575	157143	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	hori	left	(840, 349)	(664, 525)	True	158254	158903	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	hori	left	N_dis	(715, 400)	True	160001	160535	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	hori	left	N_dis	(964, 649)	True	161674	162239	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	hori	left	(715, 649)	(664, 525)	True	163314	163920	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	hori	left	(715, 649)	(664, 525)	True	164933	165592	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	hori	left	(840, 701)	(715, 649)	True	166754	167632	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	hori	left	N_dis	(1016, 525)	True	168803	169328	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	hori	left	(840, 349)	(964, 649)	True	170581	171096	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	vert	up	(715, 400)	(664, 525)	True	172236	172783	up	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	hori	left	(840, 701)	(664, 525)	True	173821	174351	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	hori	left	N_dis	(964, 400)	True	175434	176079	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	vert	up	(964, 400)	(840, 701)	True	177138	177815	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	hori	left	N_dis	(840, 349)	True	178920	179415	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	vert	up	(840, 701)	(715, 649)	True	180459	181080	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	hori	left	N_dis	(715, 400)	True	183833	184424	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	hori	left	(715, 649)	(715, 400)	True	185631	186400	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	same	hori	left	(1016, 525)	(840, 349)	True	187626	188375	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	hori	left	(964, 649)	(840, 701)	True	189576	190135	up	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	hori	left	N_dis	(964, 400)	True	192787	193311	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	hori	left	(664, 525)	(964, 649)	True	194441	194991	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	vert	up	(1016, 525)	(715, 400)	True	196157	196695	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	vert	up	N_dis	(715, 649)	True	199346	200160	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	hori	left	N_dis	(840, 349)	True	201272	202136	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	hori	left	(840, 349)	(664, 525)	True	203176	203783	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	same	hori	left	N_dis	(840, 349)	True	204988	205615	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	dif	vert	up	(715, 400)	(715, 649)	True	206624	207895	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	hori	left	(964, 649)	(664, 525)	True	209000	209655	left	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	vert	up	N_dis	(964, 400)	True	210703	211623	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	dif	hori	left	(964, 400)	(840, 349)	True	214324	214927	left	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	vert	up	(964, 400)	(715, 649)	True	216113	216688	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	vert	up	(1016, 525)	(840, 349)	True	219342	220095	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	hori	left	N_dis	(1016, 525)	True	221112	221831	left	(840, 525)	testing
+10	ii	f	20	2	diamond	red	same	vert	up	(964, 400)	(715, 649)	True	222932	223847	up	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	vert	up	(964, 649)	(715, 649)	True	224893	225535	left	(840, 525)	testing
+10	ii	f	20	2	diamond	none	dif	vert	up	N_dis	(715, 649)	True	228057	228735	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	same	hori	left	N_dis	(1016, 525)	True	229826	230375	left	(840, 525)	testing
+10	ii	f	20	2	circle	red	dif	vert	up	(964, 649)	(1016, 525)	True	231392	232159	up	(840, 525)	testing
+10	ii	f	20	2	circle	none	dif	hori	left	N_dis	(715, 400)	True	233400	234008	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	dif	vert	up	(664, 525)	(715, 649)	True	235119	235879	up	(840, 525)	testing
+10	ii	f	20	2	diamond	green	same	hori	left	(840, 349)	(964, 649)	True	237066	237775	left	(840, 525)	testing
+10	ii	f	20	2	circle	green	same	vert	up	(715, 649)	(964, 649)	True	238846	239423	up	(840, 525)	testing
