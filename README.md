@@ -1,2 +1,2 @@
 # science_projects
-Collection of code belonging to data and analyses of scientific publications
+Collection of code belonging to data and analyses of some scientific publications
